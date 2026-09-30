@@ -1,9 +1,3 @@
-AI detectors like Pangram trigger on specific patterns: repetitive sentence structures, balanced bullet lists (`**Bold Keyword:** Explanation`), transition words like "furthermore" or "seamlessly," and overly polished phrasing.
-
-Here is a version written like a real student project—casual, direct, with natural variation in sentence length and zero corporate fluff.
-
----
-
 # Vityarthi Python Project - Dice Betting Game
 
 This is a basic command-line dice game I made for my Vityarthi Python course. You start with some fake money, make a bet, and try to guess what number a 6-sided die will land on. If you guess right, you double your bet. If you get it wrong, you lose the wager.
